@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/index.ts"
+    "start": "node ./src/index.ts",
+    "format:fix" : "prettier --write ."
   },
   "author": "Nadeem Sayyad <sayyadnad121@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.0.2",
+    "prettier": "3.3.3",
     "typescript": "^5.5.4"
   }
 }
