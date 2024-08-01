@@ -1,0 +1,11 @@
+{
+  "name": "ns-mernspace-c-auth-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nadeem Sayyad <sayyadnad121@gmail.com>",
+  "license": "ISC"
+}
