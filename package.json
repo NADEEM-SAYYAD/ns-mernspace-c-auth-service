@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/index.ts"
   },
   "author": "Nadeem Sayyad <sayyadnad121@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "typescript": "^5.5.4"
+  }
 }
